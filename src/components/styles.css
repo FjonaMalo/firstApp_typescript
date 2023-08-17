@@ -44,7 +44,7 @@
   box-shadow: 0 0 5px black;
 }
 
-/* .container {
+.container {
   width: 95%;
   display: flex;
   margin-top: 10px;
@@ -131,4 +131,4 @@
     width: 95%;
     margin-bottom: 10px;
   }
-} */
+}
